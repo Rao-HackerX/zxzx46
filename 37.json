@@ -7,127 +7,217 @@
   "matches": [
     {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
+      "title": "Sample View",
+      "tournament": "28 march 2026, 7:30pm",
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "start_time": "10 March 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "language": "ENGLISH",
+      "start_time": "2026-03-28T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEmG-vwMBwGd6z9-fHDR_yohTQJ2m1sm54ZpWMfxVaOyuNJdnHIrPZahIWrVjqy2ultme2PDNQbtDdMKm9aWtfC80v-NQRDbPaHzCY3xSLPmL4QtSTV5ydl9-NJDVaPP4gknZ5LYA5HEmCBffrH1p2bt5thjNKraQ0cWj8IBxkKMv6YpiV5IqIAzT7-knT/s320/RCB-vs-SRH-420x280.jpg",
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://tgiptvtelugu456.blogspot.com/?url=https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/360p.m3u8?hdntl=Expires=1773429558~_GO=Generated~acl=/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/*~Signature=AR77L-bz4wwU1kALpbLJUqNc_MJnYEp7Ow3M6KZyibNKxr25bZ0gX1OwyIdDVm2_7JEyXjLi9JFfS48NWLUzED3flh0K\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/480p.m3u8?hdntl=Expires=1773429558~_GO=Generated~acl=/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/*~Signature=AR77L-bz4wwU1kALpbLJUqNc_MJnYEp7Ow3M6KZyibNKxr25bZ0gX1OwyIdDVm2_7JEyXjLi9JFfS48NWLUzED3flh0K\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/540p.m3u8?hdntl=Expires=1773429558~_GO=Generated~acl=/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/*~Signature=AR77L-bz4wwU1kALpbLJUqNc_MJnYEp7Ow3M6KZyibNKxr25bZ0gX1OwyIdDVm2_7JEyXjLi9JFfS48NWLUzED3flh0K\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/720p.m3u8?hdntl=Expires=1773429558~_GO=Generated~acl=/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/*~Signature=AR77L-bz4wwU1kALpbLJUqNc_MJnYEp7Ow3M6KZyibNKxr25bZ0gX1OwyIdDVm2_7JEyXjLi9JFfS48NWLUzED3flh0K\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773429558~_GO=Generated~acl=/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/*~Signature=AR77L-bz4wwU1kALpbLJUqNc_MJnYEp7Ow3M6KZyibNKxr25bZ0gX1OwyIdDVm2_7JEyXjLi9JFfS48NWLUzED3flh0K",
-          "cookie_valid": "1773211865",
-          "language": "ENGLISH"
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=ch1xHindi 1,FRAME-RATE=25.000\nhttps://ipl-lovers.pages.dev\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=ch2xHindi 2,FRAME-RATE=25.000\nhttps://ipl-lovers.pages.dev\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=ch3xEnglish,FRAME-RATE=25.000\nhttps://ipl-lovers.pages.dev\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=ch4xPC / Mobile,FRAME-RATE=25.000\nhttps://ipl-lovers.pages.dev\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=ch5xTamil,FRAME-RATE=25.000\nhttps://ipl-lovers.pages.dev\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=ch6xTelugu,FRAME-RATE=25.000\nhttps://ipl-lovers.pages.dev"
         }
       ]
     },
     {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "start_time": "10 March 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://tgiptvtelugu456.blogspot.com/?url=https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/360p.m3u8?hdntl=Expires=1773211865~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQfp739fWP7d68N1faXqqaQ1CoEm417PStP9F3OZEBopLR0f5STne7nc7awRtPmS-_6tRrG-knFuyzUGP26geUI\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/480p.m3u8?hdntl=Expires=1773211865~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQfp739fWP7d68N1faXqqaQ1CoEm417PStP9F3OZEBopLR0f5STne7nc7awRtPmS-_6tRrG-knFuyzUGP26geUI\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/540p.m3u8?hdntl=Expires=1773211865~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQfp739fWP7d68N1faXqqaQ1CoEm417PStP9F3OZEBopLR0f5STne7nc7awRtPmS-_6tRrG-knFuyzUGP26geUI\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/720p.m3u8?hdntl=Expires=1773211865~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQfp739fWP7d68N1faXqqaQ1CoEm417PStP9F3OZEBopLR0f5STne7nc7awRtPmS-_6tRrG-knFuyzUGP26geUI\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773211865~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQfp739fWP7d68N1faXqqaQ1CoEm417PStP9F3OZEBopLR0f5STne7nc7awRtPmS-_6tRrG-knFuyzUGP26geUI",
-          "cookie_valid": "1773211865",
-          "language": "ENGLISH"
-        }
-      ]
+      "title": "RCB Vs SRH",
+      "tournament": "28 march 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-03-28T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEmG-vwMBwGd6z9-fHDR_yohTQJ2m1sm54ZpWMfxVaOyuNJdnHIrPZahIWrVjqy2ultme2PDNQbtDdMKm9aWtfC80v-NQRDbPaHzCY3xSLPmL4QtSTV5ydl9-NJDVaPP4gknZ5LYA5HEmCBffrH1p2bt5thjNKraQ0cWj8IBxkKMv6YpiV5IqIAzT7-knT/s320/RCB-vs-SRH-420x280.jpg",
+      "auto_streams": null
     },
     {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
+      "title": "MI Vs KKR",
+      "tournament": "29 march 2026, 7:30pm",
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "start_time": "2026-03-13T03:30:00",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg ",
-      "language": "ENGLISH",
-      "auto_streams": null    
+      "start_time": "2026-03-29T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjseLOUDVWxWAu-CBC9BJQVMfH1ZtnI3prAKyMh5IdCBvlPkBAbF4pYwcHYOc2xTp-xYVqdr7Lmek_zLYAFifJXDhUF7LCBznf9eZhDwOXtotHTb7OkG3E7sZyJ0TbElYWMXNkUgHVxYff1v2-kZnmMqxHZDwfwGu3qFq6UDIa5SBWpzGYk1xrTBm8FelLD/s320/MI-vs-KKR-Head-to-Head-Record-420x280.jpg",
+      "auto_streams": null
     },
-     {
+    {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
+      "title": "RR Vs CSK",
+      "tournament": "30 march 2026, 7:30pm",
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "start_time": "2026-03-13T03:30:00",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "language": "ENGLISH",
-      "auto_streams": null    
+      "start_time": "2026-03-30T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGP84Mw0dO4cV9gbk_NcMOsehPOs2agn7LdlSGwbJeR5skUDwzZ4fLii8svZAs3b1gvrDC0QXRE-txXb3ZJp88C7FrkRI74kAmSmr_WnkP9lKrWWfP6RuC9gT8AU9vhyphenhyphen1ahkkBivQ1iABfTi3WzoiBn7ftvtTmfz8elt2hRvNzzA2FYo9OOasvqYaRAfk5/s320/CSK-vs-RR-Head-to-Head-Record-420x280.jpg",
+      "auto_streams": null
     },
-     {
+    {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
+      "title": "PBKS Vs GT",
+      "tournament": "31 march 2026, 7:30pm",
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "start_time": "2026-03-13T03:30:00",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "language": "ENGLISH",
-      "auto_streams": null    
+      "start_time": "2026-03-31T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3nrrvA4kgxKBYND3kbBk0hmIO8R_x-6ECqvgXGWANoEjXFWzvotZqWEaFnAWluSPuPB8TP480LWk7AXVFx2pYClJ6Aga2M1fCCx7-cmqYChiwadCJAqrcVmsy54moG1-gUfKSvy7obOX2ZYqE9fuB5NfD-bRldMkMGpEAoLuZQCp3-N3qOR4fgmRx7GG7/s320/GT-vs-PBKS-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
     },
-     {
+    {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
+      "title": "LSG Vs DC",
+      "tournament": "1 APRIL 2026, 7:30pm",
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "start_time": "2026-03-13T03:30:00",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "language": "ENGLISH",
-      "auto_streams": null    
+      "start_time": "2026-04-01T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv6BiXPML6PXBJlofMRzYO2KmPIefcIRjJsZpER_FsftxnRbLU7b2PiAhk6CQS8Rd2-0PH_ixS07aplmWejoXVs6nwOOYyZnQAuQjerRkVZpLrqMiyORQ2SPlKBIfHIdIeaemVJNgyjBDLUd1n1DoG6Y1SK8ul519PIMM2m2LAZC__fh2TDc-Njg0ozr-4/s320/LSG-vs-DC-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
     },
-     {
+    {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
+      "title": "KKR Vs SRH",
+      "tournament": "2 APRIL 2026, 7:30pm",
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "start_time": "2026-03-13T03:30:00",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "language": "ENGLISH",
-      "auto_streams": null    
+      "start_time": "2026-04-02T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinlEOThw0_QbBw96MfndqcWp6SPUnTPItEnqdGDXpLmOKknlgtOUSGzvMyVAu-oUX_Zsbt7ZXPPJBxvK2n-r_H2_NzIMpM0mW1T2503AjQJM0Tf2CznSDB_9-CciQbVSdyA0Avz9okXnE0IkVItyrmUfIdfXs5c7-2Fl2LjywNOWcytCfAvoEJEB7jQFyX/s320/KKR-vs-SRH-Head-to-Head-Record-420x280.jpg",
+      "auto_streams": null
     },
-     {
+    {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
+      "title": "CSK Vs PBKS",
+      "tournament": "3 APRIL 2026, 7:30pm",
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "start_time": "2026-03-13T03:30:00",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "language": "ENGLISH",
-      "auto_streams": null    
+      "start_time": "2026-04-03T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgenrHLnonu7BPrVZcdp68U7TIT5zVtXh1tRK3hz8z4YQsEBZMJwe89CGrYG7Vx_xyYiyaOGr8YJ_HcBln-cswZfkfZicWC3xNL8n4SCVoOpRxMsZvwRE4UeW4CHtxSHs1XmQTgH2DcYmN8cjzUizB0cBeIO38c-JmW0xB86bI9Y2g4yxXw4Oibzr9bnAjN/s320/CSK-vs-PBKS-Head-to-Head-Record-420x280.jpg",
+      "auto_streams": null
     },
-     {
+    {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
+      "title": "DC Vs MI",
+      "tournament": "4 APRIL 2026, 3:30pm",
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "start_time": "2026-03-13T03:30:00",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "language": "ENGLISH",
-      "auto_streams": null    
-    }
-]
+      "start_time": "2026-04-04T15:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikHOhjy79vD5i7JmfMDoE34H01PgYQbLCa1w_G1db545MbQX-jN3evD35GwMDozIjZBEBODJ72QANRSNQL5I0_FRMXYUJFrN7wqkp3bYTmFbnHguHS37t_9LpjZ4EvoFRvvS1zBU2GYCIqLDeubAO0YJUk-eAWyw1Ii59yI3pMSpJWOJi1iGII07bObt-Y/s320/MI-vs-DC-Head-to-Head-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "GT Vs RR",
+    "tournament": "4 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-04T15:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjozWkX8ns_uueA3lWYGuGxNqjY_WUYI_XtAt5hUGdmxurHCJXKIysdIMKsVv8BjA2HEDpeL2D2qs2Hbp3DJMxDkRPDCyULH3BZTfD21bdrIwBSEXXaIc89zv0MvYCaa_Jb4wH1Q0GtN2EOk1E7dKJem8EnxP5NjbaKbXT_PYjunwv2iJupAsn6D1ZLez3/s320/RR-vs-GT-Head-to-Head-Record-420x280.jpg",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "SRH Vs LSG",
+    "tournament": "5 APRIL 2026, 3:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-05T15:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdLj5e8OGCm1hgtBIhiyW4A_iLTFy3XpUG1M0WMjGD20h-XOK9pNlBWpvrtQkxrpOoRBljVecqxy1xLXFGfOW7hGV4FqXgmx4hKWNQLsSUDsz4B067eKlvFaA8xXlQchn8ms-O7l8veBt0snJuXiNY4XRk4PWxIGl74XnUpawrrjlAuY0xYQIm1rOhL4hW/s320/SRH-vs-LSG-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "RCB Vs CSK",
+      "tournament": "5 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-05T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNx1efqBFfads8TyZFubjHAP7LRlDPw91JlmutoQedgmK9JoPY4JbGT7piGSNAlJJ5XdYbAB513P_RBNYmxLcneJw6t9-HhUbv_N2kSJS3LbPZE2braAAMTeyWE5RNmYY3gvI3Xhg_CR-l-jojDnpSHGtAmvQYLUnf36t4lhBWdfDDwtAR73CvOH1HnZZT/s320/CSK-vs-RCB-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "KKR Vs PBKS",
+      "tournament": "6 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-06T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKzMzX0_GFk5xWQeoY5wBz21gm5uX5rpSTGQ9V4T_SFCwTKgD33Rp-C6VicRc973bk9sxMxTsYU49qQwfYYlXId7P8ND6Hgunb0gTPvJjnryBlqfYxstuWUHT4x8JwpNEjUoZ2TMvcQyk9gGJ8OdBahFvuMlfjTGk6tMB-4cyQBbFPzKNToWlQSqqgefyx/s320/KKR-vs-PBKS-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "RR Vs MI",
+      "tournament": "7 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-07T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdRRwA4HX8LRFIRPN-ag2VEl32KxxIxVgJNIIE9jyLipmOrdmfGC3w9HFGhANsUAg70dH4q_dCv-kS4UabOmIbwWbovbGu3bR9AfCBvdwprb4pwVP4WEVOH6bL-yRo5Cuf4GBATbqrgqhoBF6Zax4bM5dggW_C6Ozz9zx75LgP1FNXeCGGpl5z42EcIBU-/s320/MI-vs-RR-Head-to-Head-Record-420x280.jpg",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "DC Vs GT",
+      "tournament": "8 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-08T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDkdEF1GkTo1hfFud3jHKCFnL-e8TyxU-SP6ioDK97Riq77FQBiB7zknlobwtde_4AmggTUyhI35AUp_WejJ891sGvKxMasSIQyUJlzFh2Tif2fpJahs8EvczlMavTnzEQ0SBhywH2c5Wn0fT_IR4B3D18NBU9289jwq2v25UEf0ugZ6Fvw5d9gjvnQrT3/s320/DC-vs-GT-Head-to-Head-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "KKR Vs LSG",
+      "tournament": "9 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-09T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS8zzeHSmqs0z2YQxPuzq2B3u_xNN8A4ARBlETnISfETxhvDT_7sdf2mrf1niH3ZCe_zKPjQmTGfaRBh3wSejKsTZmCZLNnizpWxk0_QSmjdQFP9Nzb4del217LXZ1lg_2gUSFktqSm00J6nuBE55yJudjDNd0jfW0V3yLJcxWgfemWGVUbISDiffSQKUW/s320/KKR-vs-LSG-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "RR Vs RCB",
+      "tournament": "10 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-10T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxO7Zw9sTevLuPcAqxusFIxeGxebP7oPS1fi_GWSzZzB-EXYIRHlm9x_gAxQ9V5GTXYMiYhQh6pMKU5-CFtOT7AgBzwPo0BxEKgMfyXIUhPGmJl9fnLAG9Vd4NGW7f8prgOc8dU4DscUnHKtT7F4mRAEgwCZkDb8qg0BvkVjQC2MHGPzpGvtv7mD-E5h3/s320/RCB-vs-RR-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "PBKS Vs SRH",
+      "tournament": "11 APRIL 2026, 3:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-11T15:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidU6A2SvrKQpMBvZ7We9-lMEC0NRG3lKmb3NqvWle0RZnx65I1EzOd6Idf-IOBK5hJ_wriCbB3-COiWfC7I_Fh_3O5yOrXiAr_qNx5qo8dAP2w4aW-XIZu8PrgndeLQP1jlB_Al2DZLDPxb4ETRcj6kpYsO0NktqnyGEcO6_bhh9pcO4RM2emapnINhNg3/s320/SRH-vs-PBKS-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "CSK Vs DC",
+      "tournament": "11 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-11T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjksmQLr8bU1floeVVw5yYjx5kNHATxykG59CfNvrTFJ1j6nP19fZL-oHGBYCPfSD4NIdfhL2-8OZioljgMloS0UWl_RGE2kFxxKIAZXP4d47UU5LKI4tEJUaegZkxE92IY36C0pEj6Xe_b0iPMnABMXT7gPmdxMAKB-Kj_5YY9D7EUTsEDMekh2XeRw8ua/s320/csk-VS-DC-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "LSG Vs GT",
+      "tournament": "12 APRIL 2026, 3:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-11T15:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUli8UoYs3ZMwviD1_jCvYICfXb1FN9q5hxKrv-btoQbukX44GpNGudPdtkMOQgG2BgWMYyc5TlwZYjQc700VRlGN0W9UAsrpW8rGDIKs11vQ_50gjbVkRgGx2NI0rXSHYeXIOrgY1dbRD1kJ145Q7mfftPar9fMBxiqh-p5VwVo24W6uxammnr1eTky57/s320/GT-vs-LSG-Head-to-Head-Record-420x280.jpg ",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "MI Vs RCB",
+      "tournament": "12 APRIL 2026, 7:30pm",
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "start_time": "2026-04-11T19:30:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOhMME76PJTwfy4BWg0tU5JgP0g9bK5mTBiCFmC-7M2LGjl2Fp2e5JMdep8ZyIQ2Ab2vq_6JNwIdjkzzRQGqxJCH8muF6I9d4vq9UvVemkFNOLGvw5DCXM2Xelum_MWl38K_M7F9x1WfVSdA9p7UXZiyNvqD8Y2ETszPsLFZUinaa1lXTUNmCpAm_y2bKy/s320/RCB-vs-MI-Head-to-Head-420x280.jpg ",
+      "auto_streams": null
+    } 
+  ]
 }
-
-
-
-
