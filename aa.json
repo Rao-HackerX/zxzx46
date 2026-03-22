@@ -6,9 +6,9 @@
     }
   },
   "ch2": {
-    "mpd": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/kpooidebh6/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+    "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
     "keys": {
-      "a772d39f9db4e13a7ddb20c834146c08": "a21842563cb7098af614b82e7d5d4636"
+      "f288380ca4cef9ad3f27a92a08e9bb8b": "9f18d26291d9230833501f7f822f6875"
     }
   }
   }
