@@ -1,0 +1,14 @@
+{
+  "ch1": {
+    "mpd": "https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1774155640~exp=1774242040~acl=/*~hmac=440d56ca9ad7d88ee6baa975cfeebc970b11223a0055bf68d4e64e3af7703a6c",
+    "keys": {
+      "9457eb90129456fa8ea95e10ba4ac51e": "e620a970cea474c491ac78ae71a4d764"
+    }
+  },
+  "ch2": {
+    "mpd": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/kpooidebh6/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+    "keys": {
+      "a772d39f9db4e13a7ddb20c834146c08": "a21842563cb7098af614b82e7d5d4636"
+    }
+  }
+  }
