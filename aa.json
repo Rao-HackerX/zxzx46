@@ -22,7 +22,7 @@
     "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
     "key": "e620a970cea474c491ac78ae71a4d764",
     "referer" : "https://www.jiotv.com/",
-    "user-agent" : "plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6",
+    "user_agent" : "plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6",
     "cookie": "__hdnea__=st=1774357239~exp=1774443639~acl=/*~hmac=92f64e59c8b88767b3ea23b989bbf3bf75a8c2e471204d452903f0cd241eb90e",
     "last_update": 1774159224,
     "expire_time": "1774242040"
