@@ -20,14 +20,15 @@
     "channel_id": "144",
     "channel_name": "Colors HD",
     "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
-    "channel_url": "https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1774357239~exp=1774443639~acl=/*~hmac=92f64e59c8b88767b3ea23b989bbf3bf75a8c2e471204d452903f0cd241eb90e",
+    "channel_url": "https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1774454437~exp=1774540837~acl=/*~hmac=8fa3438b47fd6350aa39d6a3946082d0c468abd727b1621cde47416534635237",
     "channel_genre": "Entertainment",
     "language": "Hindi",
-    "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
-    "key": "e620a970cea474c491ac78ae71a4d764",
+    "keys": {
+    "9457eb90129456fa8ea95e10ba4ac51e": "e620a970cea474c491ac78ae71a4d764"
+  },
     "referer" : "https://www.jiotv.com/",
     "user_agent" : "plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6",
-    "cookie": "__hdnea__=st=1774357239~exp=1774443639~acl=/*~hmac=92f64e59c8b88767b3ea23b989bbf3bf75a8c2e471204d452903f0cd241eb90e",
+    "cookie": "__hdnea__=st=1774454437~exp=1774540837~acl=/*~hmac=8fa3438b47fd6350aa39d6a3946082d0c468abd727b1621cde47416534635237",
     "last_update": 1774159224,
     "expire_time": "1774242040"
   },
@@ -38,8 +39,7 @@
     "channel_url": " https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
     "channel_genre": "Infotainment",
     "language": "English",
-    "keyId": "",
-    "key": "",
+    
     "cookie": "",
     "last_update": 1774159224,
     "expire_time": "1774242040"
