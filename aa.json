@@ -6,12 +6,16 @@
     "channel_url": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
     "channel_genre": "Business News",
     "language": "English",
-    "keyId": "f288380ca4cef9ad3f27a92a08e9bb8b",
-    "key": "9f18d26291d9230833501f7f822f6875",
+    "keys": {
+    "f288380ca4cef9ad3f27a92a08e9bb8b": "9f18d26291d9230833501f7f822f6875"
+  },
     "cookie": "",
     "last_update": 1774159224,
     "expire_time": "1774242040"
   },
+
+
+  
   {
     "channel_id": "144",
     "channel_name": "Colors HD",
