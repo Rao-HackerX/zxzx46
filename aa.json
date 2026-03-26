@@ -36,7 +36,7 @@
     "channel_id": "146",
     "channel_name": "History TV18 HD",
     "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",
-    "channel_url": " https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
+    "channel_url": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
     "channel_genre": "Infotainment",
     "language": "English",
     "keys": {},
